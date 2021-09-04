@@ -62,6 +62,7 @@ body {
 #divMainContent #divItemContentMain {
   overflow: hidden;
   height: 370px;
+  position: relative;
 }
 
 #divMainContent #divItemContent > img {
